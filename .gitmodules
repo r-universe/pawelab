@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/pawelab/pawelab.r-universe.dev
 	branch = HEAD
+[submodule "HyperCom"]
+	path = HyperCom
+	url = https://github.com/pawelab/HyperCom
