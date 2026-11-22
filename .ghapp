@@ -1,0 +1,10 @@
+{
+  "id": 184711031,
+  "created_at": "2026-11-22T16:14:37.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["HyperCom", "pawelab.r-universe.dev"]
+}
